@@ -1,41 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 133,
-    "timeWeek": 133,
-    "timeMonth": 133,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Aktiva Webmail",
     "url": "https://webmail.aktiva.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.aktiva.com.au.ico",
@@ -46,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 945,
-    "timeWeek": 945,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "time": 995,
+    "timeDay": 995,
+    "timeWeek": 995,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {}
   }
 ]
