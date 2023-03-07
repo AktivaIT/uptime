@@ -4,19 +4,19 @@
     "url": "https://webmail.aktiva.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.aktiva.com.au.ico",
     "slug": "aktiva-webmail",
-    "status": "down",
-    "uptime": "94.92%",
-    "uptimeDay": "52.75%",
-    "uptimeWeek": "93.25%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "94.92%",
-    "time": 1089,
-    "timeDay": 1034,
-    "timeWeek": 1131,
-    "timeMonth": 1089,
-    "timeYear": 1089,
+    "status": "up",
+    "uptime": "94.86%",
+    "uptimeDay": "52.12%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "94.86%",
+    "time": 1083,
+    "timeDay": 1023,
+    "timeWeek": 1116,
+    "timeMonth": 1083,
+    "timeYear": 1083,
     "dailyMinutesDown": {
-      "2023-03-07": 680
+      "2023-03-07": 689
     }
   }
 ]
