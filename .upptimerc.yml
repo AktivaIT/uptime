@@ -3,7 +3,7 @@ owner: AktivaIT # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: AKIT Uptime status
+  - name: AKITSRV Uptime status
     url: http://status.aktiva.com.au/status/akit
     
   - name: Aktiva Site Status
