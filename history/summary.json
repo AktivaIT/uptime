@@ -1,20 +1,20 @@
 [
   {
-    "name": "AKIT Uptime status",
+    "name": "AKITSRV Uptime status",
     "url": "http://status.aktiva.com.au/status/akit",
     "icon": "https://icons.duckduckgo.com/ip3/status.aktiva.com.au.ico",
-    "slug": "akit-uptime-status",
+    "slug": "akitsrv-uptime-status",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 650,
-    "timeWeek": 650,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1450,
-    "timeDay": 1450,
-    "timeWeek": 1450,
-    "timeMonth": 1450,
-    "timeYear": 1450,
+    "time": 1661,
+    "timeDay": 1661,
+    "timeWeek": 1661,
+    "timeMonth": 1661,
+    "timeYear": 1661,
     "dailyMinutesDown": {}
   }
 ]
