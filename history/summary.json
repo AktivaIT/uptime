@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.aktiva.com.au.ico",
     "slug": "akitsrv-uptime-status",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 916,
-    "timeDay": 1122,
-    "timeWeek": 1016,
-    "timeMonth": 916,
-    "timeYear": 916,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 921,
+    "timeDay": 1047,
+    "timeWeek": 1036,
+    "timeMonth": 921,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2023-03-28": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1685,
-    "timeDay": 1898,
-    "timeWeek": 1820,
-    "timeMonth": 1685,
-    "timeYear": 1685,
+    "time": 1681,
+    "timeDay": 1591,
+    "timeWeek": 1856,
+    "timeMonth": 1681,
+    "timeYear": 1681,
     "dailyMinutesDown": {
       "2023-03-28": 20
     }
