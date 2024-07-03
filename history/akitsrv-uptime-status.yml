@@ -1,7 +1,7 @@
 url: http://status.aktiva.com.au/status/akit
-status: down
-code: 523
-responseTime: 3435
-lastUpdated: 2024-07-02T23:11:56.786Z
+status: up
+code: 200
+responseTime: 1024
+lastUpdated: 2024-07-03T03:27:56.579Z
 startTime: 2023-03-28T05:45:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
