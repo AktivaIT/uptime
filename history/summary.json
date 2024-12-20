@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.43%",
-    "time": 1106,
-    "timeDay": 1082,
-    "timeWeek": 1047,
+    "time": 1107,
+    "timeDay": 1140,
+    "timeWeek": 1042,
     "timeMonth": 1000,
     "timeYear": 1141,
     "dailyMinutesDown": {
@@ -41,8 +41,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   },
   {
@@ -51,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aktiva.com.au.ico",
     "slug": "aktiva-com-au-status",
     "status": "up",
-    "uptime": "96.11%",
+    "uptime": "96.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.34%",
     "time": 1777,
-    "timeDay": 1392,
-    "timeWeek": 1554,
-    "timeMonth": 1643,
-    "timeYear": 1741,
+    "timeDay": 1709,
+    "timeWeek": 1566,
+    "timeMonth": 1637,
+    "timeYear": 1742,
     "dailyMinutesDown": {
       "2024-11-05": 69,
       "2024-10-17": 93,
@@ -97,8 +96,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   }
 ]
