@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.10%",
     "time": 1666,
-    "timeDay": 922,
-    "timeWeek": 972,
+    "timeDay": 917,
+    "timeWeek": 942,
     "timeMonth": 950,
     "timeYear": 1891,
     "dailyMinutesDown": {
@@ -84,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aktiva.com.au.ico",
     "slug": "aktiva-com-au-status",
     "status": "down",
-    "uptime": "63.84%",
+    "uptime": "63.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 3668,
-    "timeDay": 4158,
-    "timeWeek": 3814,
-    "timeMonth": 3850,
+    "time": 3673,
+    "timeDay": 4070,
+    "timeWeek": 3831,
+    "timeMonth": 3855,
     "timeYear": 4269,
     "dailyMinutesDown": {
-      "2026-04-12": 199,
+      "2026-04-13": 206,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -458,8 +459,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   }
 ]
